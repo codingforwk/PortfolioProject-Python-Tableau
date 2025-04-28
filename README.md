@@ -51,3 +51,6 @@ The main goals are:
    - Export the cleaned DataFrame to an Excel file: `london_bikes_New.xlsx` under a sheet named `Data`.
 
 ## 📊  Dashboard
+
+![bike1](https://github.com/user-attachments/assets/3439de3c-265b-40cd-8b40-7a052eab2f19)
+
